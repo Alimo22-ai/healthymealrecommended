@@ -231,10 +231,9 @@ meal_recommender/
 ├── engine.py             # Core ML recommendation engine
 ├── api.py                # FastAPI application
 ├── streamlit_app.py      # Streamlit web interface
-├── requirements.txt     # Python dependencies
-└── user_input_files/    # Input data directory
-    ├── recips.json      # Meal recipes dataset
-    └── nutrition_dataset.csv  # User profiles dataset
+├── requirements.txt     # Python dependencies  
+├── recips.json      # Meal recipes dataset
+└── nutrition_dataset.csv  # User profiles dataset
 ```
 
 ## License
