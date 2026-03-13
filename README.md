@@ -243,4 +243,4 @@ MIT License
 
 ## Author
 
-MiniMax Agent
+Ali Mohamed Ali Mostafa
